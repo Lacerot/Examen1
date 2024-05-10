@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "506223346462",
+    "firebase_url": "https://laboratorio-dis413-default-rtdb.firebaseio.com",
+    "project_id": "laboratorio-dis413",
+    "storage_bucket": "laboratorio-dis413.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506223346462:android:aba3f7374c2b6ac04bff0f",
+        "android_client_info": {
+          "package_name": "com.example.gpslab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-inPt58GFw61dKiJw-GIFumBN-wRo1_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506223346462:android:85399a7183b63c544bff0f",
+        "android_client_info": {
+          "package_name": "com.example.lab3parte2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-inPt58GFw61dKiJw-GIFumBN-wRo1_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:506223346462:android:534aa352c45f50d34bff0f",
+        "android_client_info": {
+          "package_name": "com.leonel.examen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-inPt58GFw61dKiJw-GIFumBN-wRo1_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
